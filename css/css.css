@@ -1,0 +1,63 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+
+.logo{
+    width: 2em;
+    height: 2em;
+
+}
+
+
+
+.carousel-inner img {
+    width: 100%;
+    height: 500px;
+
+}
+.lbl{
+    margin-left: 2em;
+}
+
+
+section .row img{
+    margin: 0 0 3.1em;
+    width: 100%;
+    margin-top: 2em;
+
+}
+.img1{
+    padding-top: 1em;
+}
+.second{
+   margin-top: 5em;
+
+}
+
+/*foooter*/
+footer{
+    font-size: 0.85em;
+
+    width: 100%;
+    padding-top: 2em;
+
+}
+footer ul{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+
+}
+
+footer li img{
+    width: 32px;
+    height: 32px;
+}
+footer img:hover{
+    background-color: rgba(62, 64, 69, 0.19);
+    border-radius: 20px;
+}
+.container{
+    width: 100%;
+}
