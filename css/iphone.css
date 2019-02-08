@@ -5,7 +5,17 @@ body{
     margin-top: 2em;
 }
 .firstimg{
-    cursor: pointer;
+   padding-top: 2em;
+width: 50em;
+    height: 40em;
+}
+.firstimg1{
+
+    width: 50em;
+    height: 40em;
+}
+.firstimg2{
+    padding-top: 2em;
 }
 .h2{
     text-align: center;
