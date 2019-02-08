@@ -1,0 +1,92 @@
+body, html{
+    height: 100%;
+}
+
+/*картинка */
+
+.parallax{
+    background-image: url("../img/ipadlink.jpg");
+   height: 500px;
+
+
+    /*parallax scrolling*/
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat:no-repeat ;
+    background-size: cover;
+
+}
+/*1*/
+.iform1{
+    color: #3e4045;
+    background-color: rgba(182, 182, 182, 0.67);
+    text-align: center;
+    padding: 50px 80px;
+
+}
+.h21{
+    text-align: center;
+}
+/*2*/
+.parallax2{
+    background-image: url("../img/ipad7.jpg");
+    height: 500px;
+
+
+
+    /*parallax scrolling*/
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+
+
+/*3*/
+
+.parallax3{
+ height: 758px;
+
+    background-image: url("../img/ipad10.png");
+
+
+
+    /*parallax scrolling*/
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+
+.toggle{
+    cursor: pointer;
+}
+
+
+
+
+
+/*foooter*/
+footer{
+    font-size: 0.85em;
+
+    width: 100%;
+    padding-top: 2em;
+
+}
+footer ul{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+
+}
+
+footer li img{
+    width: 32px;
+    height: 32px;
+}
+footer img:hover{
+    background-color: rgba(62, 64, 69, 0.19);
+    border-radius: 20px;
+}
+
